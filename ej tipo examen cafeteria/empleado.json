@@ -1,0 +1,26 @@
+[
+    {
+        "id_empleado": "E1",
+        "nombre": "Alan",
+        "apellido": "Brito",
+        "edad": 20,
+        "sueldo_base": 450000,
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E2",
+        "nombre": "Maria",
+        "apellido": "Dolores",
+        "edad": 20,
+        "sueldo_base": 500000,
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E3",
+        "nombre": "Pedro",
+        "apellido": "Pascal",
+        "edad": 20,
+        "sueldo_base": 1000000,
+        "id_cargo": "C1"
+    }
+]

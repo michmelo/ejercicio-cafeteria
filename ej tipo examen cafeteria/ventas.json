@@ -1,0 +1,56 @@
+[
+    {
+        "id_venta": "V101",
+        "empleado": "E1",
+        "fecha": "2024-06-15",
+        "total_venta": 8400,
+        "productos": [
+            {
+                "id_producto": "P03",
+                "cantidad": 2,
+                "precio_unitario": 2500,
+                "subtotal": 5000
+            },
+            {
+                "id_producto": "P07",
+                "cantidad": 2,
+                "precio_unitario": 3500,
+                "subtotal": 7000
+            },
+            {
+                "id_producto": "P10",
+                "cantidad": 1,
+                "precio_unitario": 2000,
+                "subtotal": 2000
+            }
+        ],
+        "propina": 0
+    },
+    {
+        "id_venta": "V102",
+        "empleado": "E2",
+        "fecha": "2024-06-15",
+        "total_venta": 6400,
+        "productos": [
+            {
+                "id_producto": "P04",
+                "cantidad": 2,
+                "precio_unitario": 2400,
+                "subtotal": 4800
+            },
+            {
+                "id_producto": "P13",
+                "cantidad": 2,
+                "precio_unitario": 1500,
+                "subtotal": 3000
+            },
+            {
+                "id_producto": "P09",
+                "cantidad": 1,
+                "precio_unitario": 1800,
+                "subtotal": 1800
+            }
+        ],
+        "propina": 0
+    }
+]
